@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-
+import "./ShopItemFunc.css";
 export const ShopItemFunc=({item})=>{
   return (
     <div className="main-content">
