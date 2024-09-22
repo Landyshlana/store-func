@@ -11,7 +11,7 @@ export const ShopItemFunc=({item})=>{
     <div className="divider"></div>
     <div className="purchase-info">
         <div className="price">{item.currency}
-            {item.price}.00
+            {item.price.toFixed(2)}
         </div>
         <button>Добавить в корзину</button>
     </div>
