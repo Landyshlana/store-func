@@ -2,7 +2,6 @@ import './App.css';
 import { ShopItemFunc } from "./Component";
 
 const App = () =>{
-
   const item = {
     brand: "Tiger of Sweden",
     title: "Leonard coat",
