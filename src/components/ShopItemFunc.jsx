@@ -16,8 +16,6 @@ export const ShopItemFunc=({item})=>{
         <button>Добавить в корзину</button>
     </div>
     </div> 
-
-
   )
 } 
 
