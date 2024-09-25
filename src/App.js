@@ -1,5 +1,5 @@
 import './App.css';
-import { ShopItemFunc } from './Components/ShopItemFunc.jsx';
+import { ShopItemFunc } from './components/ShopItemFunc.jsx';
 
 const App = () =>{
   const item = {
